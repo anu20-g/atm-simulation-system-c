@@ -1,0 +1,1 @@
+# ATM Simulation System - Team 1\n\nSimulate balance enquiry, cash withdrawal, deposit and PIN change.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
